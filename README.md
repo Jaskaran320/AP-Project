@@ -1,1 +1,1 @@
-Snakes and Ladders game using JavaFX and Scenebuilder by employing OOPs principles.
+Snakes and Ladders game using JavaFX and Scenebuilder by employing OOP principles.
